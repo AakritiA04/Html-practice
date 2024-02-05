@@ -2,12 +2,13 @@
 *{
     color:blue;
     background-color:aquamarine;
-    
+
 
 }
 /* element selector */
 button{
     color:brown;
+    background-color: chartreuse;
 
 }
 /* ID selector */
@@ -19,6 +20,6 @@ button{
     color:pink;
 
 }
-#headingThree{
-    color:purple;
+.myclass{
+    color:rgb(169, 123, 169);
 }

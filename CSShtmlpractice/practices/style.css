@@ -1,16 +1,18 @@
-*{
+* {
     background-color: lightblue;
 }
-#box{
-    color:green;
+
+#box {
+    color: green;
     background-color: pink;
 
 }
-.heading{
-    color:red;
-}
-#button1{
-    color:green;
 
+.heading {
+    color: red;
 }
 
+#button1 { 
+    color: green;
+
+}

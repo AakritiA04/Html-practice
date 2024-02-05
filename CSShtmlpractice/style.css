@@ -1,15 +1,24 @@
-h1{
-    color:red;
+/* universal selector */
+*{
+    color:blue;
+    background-color:aquamarine;
+    
+
 }
-p{
-    color:blue 
-}
+/* element selector */
 button{
-    color:coral
+    color:brown;
+
 }
-body{
-    background-color:yellow;
+/* ID selector */
+#headingOne{
+    color:yellow;
+
 }
-button{
-    background-color:#f0f000;
+#headingTwo{
+    color:pink;
+
+}
+#headingThree{
+    color:purple;
 }

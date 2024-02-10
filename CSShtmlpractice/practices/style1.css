@@ -1,7 +1,14 @@
 *{
     background-color: blueviolet;
+    font-family:'Times New Roman', Times, serif
 }
 #one{
     text-transform:capitalize;
     text-align: center;
+}
+#outer{
+    font-size:25px;
+}
+#inner{
+    font-size:10px;
 }

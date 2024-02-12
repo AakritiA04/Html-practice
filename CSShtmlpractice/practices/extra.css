@@ -1,0 +1,35 @@
+#square{
+    height:500px;
+    width:120px;
+    border: 2px solid black;
+    padding:10px;
+
+
+}
+#circle1{
+    height:70px;
+    width:70px;
+    border-radius:50%;
+    background-color:red;
+    border:5px solid black;
+    margin-bottom:15px;
+}
+
+
+#circle2{
+    height:70px;
+    width:70px;
+    border-radius:50%;
+    background-color:yellow;
+    border:5px solid black;
+    margin-bottom:15px;
+
+}
+#circle3{
+    height:70px;
+    width:70px;
+    border-radius:50%;
+    background-color:green;
+    border:5px solid black;
+    margin-bottom:15px;
+}

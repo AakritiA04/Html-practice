@@ -5,3 +5,9 @@ div{
     border-radius:50%;
     
 }
+p{
+    background-color:indigo;
+    width: 100px;
+    height:20px;
+    font-style: italic;
+}

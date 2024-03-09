@@ -1,0 +1,33 @@
+div{
+    height:100px;
+    width:100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display:inline-block;
+
+}
+#box1{
+   position:static; 
+   /* this is the default position here */
+}
+#box2{
+    position:relative;
+    top: 10px;
+    left:20px;
+    /* now the element is relative to itself */
+    z-index:1;
+    
+}
+#box3{
+    position:absolute;
+    top:50px;
+
+
+}
+#box4{
+    position:fixed;
+    bottom:20px;
+    left:20px;
+
+  /* this will be fixed whereever we keep the position even when we scroll   */
+}
